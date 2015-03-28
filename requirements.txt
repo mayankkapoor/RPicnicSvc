@@ -1,0 +1,10 @@
+Django==1.7.7
+MySQL-python==1.2.5
+PyYAML==3.11
+argparse==1.2.1
+awsebcli==3.1.4
+cement==2.4.0
+jmespath==0.6.1
+python-dateutil==2.4.1
+six==1.9.0
+wsgiref==0.1.2
